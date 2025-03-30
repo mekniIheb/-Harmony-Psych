@@ -1,0 +1,10 @@
+h2.mb-4 {
+    text-align: center;
+}
+hr {
+    opacity: .25;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid #000;
+}
